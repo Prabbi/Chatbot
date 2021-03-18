@@ -22,7 +22,7 @@ namespace Assets
         User, Bot
     }
 
-    // ANYTIME THERE IS THE WORD SAD IT EXPRESSES A SAD FACE AND SO FORTH
+    // MINI PROJECT - FUNNY CHATBOT TO SEE WHETHER IT IS BENEFICIAL TO STUDENTS
 
     public class StartDialog : Dialog
     {
